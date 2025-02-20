@@ -9,7 +9,9 @@ Currently, I'm diving deeper into **Next.js** and **TypeScript**, refining my sk
 - **Bachelor's in UX/UI Design** –Linnaeus University, 2024  
 - **Currently studying Bachelor's in Computer Science** – Linnaeus University, 2027
 
-Always open to **collaborations, tech discussions, and new challenges**! 🚀  
+## 📬 Let's Connect!  
+Let"s connect! Always open to **collaborations, tech discussions, and new challenges**! 🚀  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-boswell-385b90234/)
 
 
 # 💻 Tech Stack:
