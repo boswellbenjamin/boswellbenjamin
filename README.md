@@ -3,7 +3,7 @@ I am Software Developer student based in Kalmar, Sweden.
 - 
 ## 🏆 About Me  
 I'm Benjamin Boswell, a Software Developer student with a background in UX/UI design.  
-Currently, I'm diving deeper into **Next.js** and **TypeScript**, refining my skills in modern web development.
+Currently, I'm diving deeper into **React Native**.
 
 ## 🎓 Education  
 - **Bachelor's in UX/UI Design** –Linnaeus University, 2024  
