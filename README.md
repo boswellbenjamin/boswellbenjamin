@@ -17,7 +17,7 @@ Currently developing a **fitness and habit tracking app** using React Native, Ex
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ## 📬 Let's Connect!  
-Let"s connect! Always open to **collaborations, tech discussions, and new challenges**! 🚀  
+Let's connect! Always open to **collaborations, tech discussions, and new challenges**! 🚀  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-boswell-385b90234/)
 
 # 📊 GitHub Stats:
