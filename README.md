@@ -21,7 +21,8 @@ Let's connect! Always open to **collaborations, tech discussions, and new challe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-boswell-385b90234/)
 
 # 📊 GitHub Stats:
-![All-time Commits](https://github-readme-stats.vercel.app/api?username=boswellbenjamin&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boswellbenjamin&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+![Benjamins's GitHub stats](https://github-readme-stats.vercel.app/api?username=boswellbenjamin&include_all_commits=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boswellbenjamin&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 ---
