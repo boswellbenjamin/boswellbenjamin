@@ -5,7 +5,7 @@ I am Software Developer based in Kalmar, Sweden.
 I'm Benjamin Boswell, a Software Developer student with a background in UX/UI design.  
 Currently developing a **fitness and habit tracking app** using React Native, Expo, and Firebase/Firestore.
 
-**Co-founder of CodeSquare**.
+[**Co-founder of CodeSquare**](https://codesquare.dev).
 
 ## 🎓 Education  
 - **Currently studying Bachelor's in Computer Science** – Linnaeus University, 2027
