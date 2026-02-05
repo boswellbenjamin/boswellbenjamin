@@ -15,9 +15,3 @@ I'm Benjamin Boswell, a Software Developer student with a background in UX/UI de
 ## 📬 Let's Connect  
 Always open to **collaborations, tech discussions, and new challenges**! 🚀  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-boswell-385b90234/)
-
-## 📊 GitHub Stats  
-![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=boswellbenjamin&include_all_commits=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boswellbenjamin&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
-
----
